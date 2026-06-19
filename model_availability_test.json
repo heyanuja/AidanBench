@@ -1,0 +1,170 @@
+{
+  "test_date": "2025-07-11 18:50:19",
+  "available": [
+    {
+      "model": "openai/gpt-4o-2024-08-06",
+      "status": "available",
+      "response": "2 + 2 equals 4."
+    },
+    {
+      "model": "openai/gpt-4o-2024-05-13",
+      "status": "available",
+      "response": "2 + 2 equals 4."
+    },
+    {
+      "model": "openai/gpt-4o-mini-2024-07-18",
+      "status": "available",
+      "response": "2 + 2 equals 4."
+    },
+    {
+      "model": "openai/o1",
+      "status": "available",
+      "response": "2 + 2 = 4."
+    },
+    {
+      "model": "openai/chatgpt-4o-latest",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "anthropic/claude-3.5-sonnet",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "anthropic/claude-3.5-sonnet-20240620",
+      "status": "available",
+      "response": "2 + 2 = 4\n\nThis is one of the most basic arithmetic equations. It involves adding two numbers togeth..."
+    },
+    {
+      "model": "anthropic/claude-3-opus",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "anthropic/claude-3-sonnet",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "anthropic/claude-3-haiku",
+      "status": "available",
+      "response": "4"
+    },
+    {
+      "model": "anthropic/claude-3.7-sonnet",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "anthropic/claude-3.7-sonnet:thinking",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "meta-llama/llama-3.1-70b-instruct",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "meta-llama/llama-3.1-405b-instruct",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "deepseek/deepseek-chat",
+      "status": "available",
+      "response": "The sum of 2 + 2 is **4**. Let me know if you'd like help with anything else! \ud83d\ude0a"
+    },
+    {
+      "model": "google/gemini-2.5-pro-preview-03-25",
+      "status": "available",
+      "response": "**Answer"
+    },
+    {
+      "model": "google/gemini-flash-1.5",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "google/gemini-pro-1.5",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "openai/gpt-4.5-preview",
+      "status": "available",
+      "response": "\\(2 + 2 = 4\\)"
+    },
+    {
+      "model": "anthropic/claude-opus-4",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    },
+    {
+      "model": "anthropic/claude-sonnet-4",
+      "status": "available",
+      "response": "2 + 2 = 4"
+    }
+  ],
+  "unavailable": [
+    {
+      "model": "openai/o1-mini",
+      "error": "Empty response"
+    },
+    {
+      "model": "openai/o1-preview",
+      "error": "Empty response"
+    },
+    {
+      "model": "mistralai/mistral-large-latest",
+      "error": "Error code: 400 - {'error': {'message': 'mistralai/mistral-large-latest is not a valid model ID', 'code': 400}, 'user_id': 'user_2xhzF7F0zuB3uVD1ZQrvbxu8hWw'}"
+    },
+    {
+      "model": "x-ai/grok-4",
+      "error": "Empty response"
+    },
+    {
+      "model": "x-ai/grok-4:low",
+      "error": "Empty response"
+    },
+    {
+      "model": "x-ai/grok-4:medium",
+      "error": "Empty response"
+    },
+    {
+      "model": "x-ai/grok-4:high",
+      "error": "Empty response"
+    },
+    {
+      "model": "x-ai/grok-4:thinking",
+      "error": "Error code: 404 - {'error': {'message': 'No endpoints found for x-ai/grok-4:thinking.', 'code': 404}, 'user_id': 'user_2xhzF7F0zuB3uVD1ZQrvbxu8hWw'}"
+    },
+    {
+      "model": "x-ai/grok-beta",
+      "error": "Error code: 404 - {'error': {'message': 'No endpoints found for x-ai/grok-beta.', 'code': 404}, 'user_id': 'user_2xhzF7F0zuB3uVD1ZQrvbxu8hWw'}"
+    },
+    {
+      "model": "x-ai/grok-3-mini-beta:low",
+      "error": "Completions.create() got an unexpected keyword argument 'reasoning'"
+    },
+    {
+      "model": "google/gemini-2.0-flash",
+      "error": "Error code: 400 - {'error': {'message': 'google/gemini-2.0-flash is not a valid model ID', 'code': 400}, 'user_id': 'user_2xhzF7F0zuB3uVD1ZQrvbxu8hWw'}"
+    },
+    {
+      "model": "google/gemini-2.0-flash-exp",
+      "error": "Error code: 404 - {'error': {'message': 'No endpoints found for google/gemini-2.0-flash-exp.', 'code': 404}, 'user_id': 'user_2xhzF7F0zuB3uVD1ZQrvbxu8hWw'}"
+    }
+  ],
+  "summary": {
+    "total_tested": 34,
+    "available_count": 22,
+    "unavailable_count": 12
+  }
+}

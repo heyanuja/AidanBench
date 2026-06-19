@@ -45,6 +45,10 @@ models = [
     "x-ai/grok-3-mini-beta:low",
     "x-ai/grok-3-mini-beta:medium",
     "x-ai/grok-3-mini-beta:high",
+    "x-ai/grok-4",
+    "x-ai/grok-4:low",
+    "x-ai/grok-4:medium",
+    "x-ai/grok-4:high",
     "mistralai/mixtral-8x22b-instruct",
     "mistralai/mistral-large-latest",
     "mistralai/mistral-7b-instruct-v0.3",
@@ -62,6 +66,7 @@ models = [
     "anthropic/claude-sonnet-4:thinking",
     "x-ai/grok-3-beta:thinking",
     "x-ai/grok-3-mini-beta:thinking",
+    "x-ai/grok-4:thinking",
     "google/gemini-2.5-pro",
     "google/gemini-2.5-pro:thinking",
     "google/gemini-2.5-flash:thinking",
@@ -115,6 +120,10 @@ model_prices = [
     {'model': 'google/gemini-2.0-flash-lite', 'input_price': 0.05, 'output_price': 0.2},
     {'model': 'google/gemini-2.0-pro-experimental', 'input_price': 1.25, 'output_price': 5},
     {'model': 'x-ai/grok-beta', 'input_price': 5, 'output_price': 15},
+    {'model': 'x-ai/grok-4', 'input_price': 3, 'output_price': 15},
+    {'model': 'x-ai/grok-4:low', 'input_price': 3, 'output_price': 15},
+    {'model': 'x-ai/grok-4:medium', 'input_price': 3, 'output_price': 15},
+    {'model': 'x-ai/grok-4:high', 'input_price': 3, 'output_price': 15},
     {'model': 'mistralai/mixtral-8x22b-instruct', 'input_price': 0.9, 'output_price': 0.9},
     {'model': 'mistralai/mistral-large-latest', 'input_price': 2, 'output_price': 6},
     {'model': 'mistralai/mistral-7b-instruct-v0.3', 'input_price': 0.055, 'output_price': 0.055},
@@ -129,6 +138,7 @@ model_prices = [
     {'model': 'anthropic/claude-sonnet-4:thinking', 'input_price': 3, 'output_price': 15, 'reasoning_multiplier': 20.0}, # Estimate based on claude-3.7-sonnet:thinking
     {'model': 'x-ai/grok-3-beta:thinking', 'input_price': 5, 'output_price': 15, 'reasoning_multiplier': 25.0}, # Estimate for thinking mode
     {'model': 'x-ai/grok-3-mini-beta:thinking', 'input_price': 5, 'output_price': 15, 'reasoning_multiplier': 15.0}, # Estimate for mini thinking
+    {'model': 'x-ai/grok-4:thinking', 'input_price': 3, 'output_price': 15, 'reasoning_multiplier': 20.0}, # Estimate for grok-4 thinking
     {'model': 'google/gemini-2.5-pro', 'input_price': 2, 'output_price': 8},
     {'model': 'google/gemini-2.5-pro:thinking', 'input_price': 2, 'output_price': 8, 'reasoning_multiplier': 30.0},
     {'model': 'google/gemini-2.5-flash:thinking', 'input_price': 0.15, 'output_price': 0.6, 'reasoning_multiplier': 25.0},
