@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "experiment_type": "proper_benchmark_timeout",
+    "description": "Testing full benchmark_question loops with timeouts",
+    "total_tests": 6,
+    "timestamp": "2025-06-10T23:26:58.149716",
+    "models_tested": [
+      "openai/gpt-4.5-preview"
+    ],
+    "timeout_conditions": [
+      "1hr",
+      "unlimited",
+      "2hr"
+    ]
+  },
+  "results": [
+    {
+      "model": "openai/gpt-4.5-preview",
+      "question": "What is a non poisonous recipe nobody has prepared before?",
+      "description": "Historically averaged 19,669s (5+ hours)",
+      "timeout_seconds": 3600,
+      "timeout_label": "1hr",
+      "replication": 1,
+      "total_runtime": 19.795233964920044,
+      "timed_out": false,
+      "error_message": null,
+      "total_answers_generated": 1,
+      "final_coherence_score": 50,
+      "final_dissimilarity_score": 1.0,
+      "avg_coherence_score": 50.0,
+      "answers_data": [
+        {
+          "answer_num": 1,
+          "answer": "A salad of freshly sliced cucumbers, strawberries, mint leaves, and avocado, lightly drizzled with honey and lime juice, topped with edible flower petals.",
+          "embedding_dissimilarity_score": 1.0,
+          "coherence_score": 50,
+          "processing_time": 5.965280055999756
+        }
+      ],
+      "timestamp": "2025-06-10T23:25:32.015607"
+    },
+    {
+      "model": "openai/gpt-4.5-preview",
+      "question": "What is a non poisonous recipe nobody has prepared before?",
+      "description": "Historically averaged 19,669s (5+ hours)",
+      "timeout_seconds": 3600,
+      "timeout_label": "1hr",
+      "replication": 2,
+      "total_runtime": 15.720448970794678,
+      "timed_out": false,
+      "error_message": null,
+      "total_answers_generated": 1,
+      "final_coherence_score": 85,
+      "final_dissimilarity_score": 1.0,
+      "avg_coherence_score": 85.0,
+      "answers_data": [
+        {
+          "answer_num": 1,
+          "answer": "A salad made of diced dragon fruit, sliced starfruit, chopped jicama, fresh mint leaves, and a drizzle of honey-lime dressing.",
+          "embedding_dissimilarity_score": 1.0,
+          "coherence_score": 85,
+          "processing_time": 4.072656869888306
+        }
+      ],
+      "timestamp": "2025-06-10T23:25:47.736860"
+    },
+    {
+      "model": "openai/gpt-4.5-preview",
+      "question": "What is a non poisonous recipe nobody has prepared before?",
+      "description": "Historically averaged 19,669s (5+ hours)",
+      "timeout_seconds": 7200,
+      "timeout_label": "2hr",
+      "replication": 1,
+      "total_runtime": 17.1966290473938,
+      "timed_out": false,
+      "error_message": null,
+      "total_answers_generated": 1,
+      "final_coherence_score": 75,
+      "final_dissimilarity_score": 1.0,
+      "avg_coherence_score": 75.0,
+      "answers_data": [
+        {
+          "answer_num": 1,
+          "answer": "A smoothie made with dragon fruit, kiwi, fresh mint, a splash of coconut water, and edible rose petals blended together, topped with chia seeds and a drizzle of honey.",
+          "embedding_dissimilarity_score": 1.0,
+          "coherence_score": 75,
+          "processing_time": 4.518955945968628
+        }
+      ],
+      "timestamp": "2025-06-10T23:26:04.935023"
+    },
+    {
+      "model": "openai/gpt-4.5-preview",
+      "question": "What is a non poisonous recipe nobody has prepared before?",
+      "description": "Historically averaged 19,669s (5+ hours)",
+      "timeout_seconds": 7200,
+      "timeout_label": "2hr",
+      "replication": 2,
+      "total_runtime": 17.26328706741333,
+      "timed_out": false,
+      "error_message": null,
+      "total_answers_generated": 1,
+      "final_coherence_score": 85,
+      "final_dissimilarity_score": 1.0,
+      "avg_coherence_score": 85.0,
+      "answers_data": [
+        {
+          "answer_num": 1,
+          "answer": "A smoothie made by blending dragon fruit, fresh cucumber juice, a touch of edible lavender flowers, and a dash of coconut milk topped with chia seeds and basil leaves.",
+          "embedding_dissimilarity_score": 1.0,
+          "coherence_score": 85,
+          "processing_time": 4.479301929473877
+        }
+      ],
+      "timestamp": "2025-06-10T23:26:22.200113"
+    },
+    {
+      "model": "openai/gpt-4.5-preview",
+      "question": "What is a non poisonous recipe nobody has prepared before?",
+      "description": "Historically averaged 19,669s (5+ hours)",
+      "timeout_seconds": null,
+      "timeout_label": "unlimited",
+      "replication": 1,
+      "total_runtime": 18.20779776573181,
+      "timed_out": false,
+      "error_message": null,
+      "total_answers_generated": 1,
+      "final_coherence_score": 50,
+      "final_dissimilarity_score": 1.0,
+      "avg_coherence_score": 50.0,
+      "answers_data": [
+        {
+          "answer_num": 1,
+          "answer": "A smoothie made from dragon fruit, cucumber, fresh mint leaves, coconut water, and a drizzle of natural honey.",
+          "embedding_dissimilarity_score": 1.0,
+          "coherence_score": 50,
+          "processing_time": 5.248810052871704
+        }
+      ],
+      "timestamp": "2025-06-10T23:26:40.409713"
+    },
+    {
+      "model": "openai/gpt-4.5-preview",
+      "question": "What is a non poisonous recipe nobody has prepared before?",
+      "description": "Historically averaged 19,669s (5+ hours)",
+      "timeout_seconds": null,
+      "timeout_label": "unlimited",
+      "replication": 2,
+      "total_runtime": 17.737966060638428,
+      "timed_out": false,
+      "error_message": null,
+      "total_answers_generated": 1,
+      "final_coherence_score": 85,
+      "final_dissimilarity_score": 1.0,
+      "avg_coherence_score": 85.0,
+      "answers_data": [
+        {
+          "answer_num": 1,
+          "answer": "A smoothie made from dragon fruit, fresh mint, coconut water, and chia seeds topped with edible flower petals.",
+          "embedding_dissimilarity_score": 1.0,
+          "coherence_score": 85,
+          "processing_time": 4.204081773757935
+        }
+      ],
+      "timestamp": "2025-06-10T23:26:58.149646"
+    }
+  ]
+}

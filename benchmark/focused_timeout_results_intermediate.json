@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "experiment_type": "focused_timeout_test",
+    "description": "Testing historically long-running model/question combinations",
+    "total_tests": 4,
+    "timestamp": "2025-06-10T23:44:58.961504",
+    "models_tested": [
+      "openai/o1-preview"
+    ],
+    "timeout_conditions": [
+      "unlimited",
+      "1hr",
+      "30min"
+    ]
+  },
+  "results": [
+    {
+      "model": "openai/o1-preview",
+      "question": "What is a cause of World War 1?",
+      "description": "Historical max: 16,385s (4.6 hours), 206 answers",
+      "timeout_seconds": 1800,
+      "timeout_label": "30min",
+      "total_runtime": 25.747069358825684,
+      "timed_out": false,
+      "error_message": null,
+      "total_answers_generated": 1,
+      "final_coherence_score": 75,
+      "final_dissimilarity_score": 1.0,
+      "avg_coherence_score": 75.0,
+      "first_few_answers": [
+        "The assassination of Archduke Franz Ferdinand of Austria-Hungary."
+      ],
+      "timestamp": "2025-06-10T23:43:31.504537"
+    },
+    {
+      "model": "openai/o1-preview",
+      "question": "What is a cause of World War 1?",
+      "description": "Historical max: 16,385s (4.6 hours), 206 answers",
+      "timeout_seconds": 3600,
+      "timeout_label": "1hr",
+      "total_runtime": 28.45038390159607,
+      "timed_out": false,
+      "error_message": null,
+      "total_answers_generated": 1,
+      "final_coherence_score": 65,
+      "final_dissimilarity_score": 1.0,
+      "avg_coherence_score": 65.0,
+      "first_few_answers": [
+        "The assassination of Archduke Franz Ferdinand of Austria-Hungary"
+      ],
+      "timestamp": "2025-06-10T23:43:59.955715"
+    },
+    {
+      "model": "openai/o1-preview",
+      "question": "What is a cause of World War 1?",
+      "description": "Historical max: 16,385s (4.6 hours), 206 answers",
+      "timeout_seconds": null,
+      "timeout_label": "unlimited",
+      "total_runtime": 27.77517318725586,
+      "timed_out": false,
+      "error_message": null,
+      "total_answers_generated": 1,
+      "final_coherence_score": 75,
+      "final_dissimilarity_score": 1.0,
+      "avg_coherence_score": 75.0,
+      "first_few_answers": [
+        "The assassination of Archduke Franz Ferdinand of Austria-Hungary."
+      ],
+      "timestamp": "2025-06-10T23:44:27.732420"
+    },
+    {
+      "model": "openai/o1-preview",
+      "question": "Describe a mobile app that encourages acts of kindness.",
+      "description": "Historical max: 16,338s (4.5 hours), 243 answers",
+      "timeout_seconds": 1800,
+      "timeout_label": "30min",
+      "total_runtime": 31.22780990600586,
+      "timed_out": false,
+      "error_message": null,
+      "total_answers_generated": 1,
+      "final_coherence_score": 90,
+      "final_dissimilarity_score": 1.0,
+      "avg_coherence_score": 90.0,
+      "first_few_answers": [
+        "A mobile app called \"Kindness Connect\" encourages acts of kindness by offering users daily suggestio"
+      ],
+      "timestamp": "2025-06-10T23:44:58.961430"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "test_type": "quick_timeout_test",
+  "scenario": {
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "question": "What color is the sky?",
+    "description": "Quick test scenario"
+  },
+  "timeout_seconds": 30,
+  "total_runtime": 15.685572147369385,
+  "answers_generated": 1,
+  "answers": [
+    {
+      "answer_num": 1,
+      "answer": "Blue",
+      "embedding_dissimilarity_score": 1.0,
+      "coherence_score": 100,
+      "processing_time": 3.1511149406433105
+    }
+  ],
+  "timestamp": "2025-06-10T23:29:51.695791"
+}
