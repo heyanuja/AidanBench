@@ -1,0 +1,197 @@
+Environment variables loaded from .env
+Re-running model=x-ai/grok-3-mini-beta:medium temp=0.7 question='Provide an explanation for Japan's Lost Decades.'
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: Provide an explanation for Japan's Lost Decades.[0m
+[32mAnswer #1: Japan's Lost Decades describe the period of economic stagnation from the early 1990s to the 2000s, primarily triggered by the bursting of an asset price bubble in the late 1980s. This led to a banking crisis with massive bad loans, prolonged deflation, low growth, and ineffective government policies that failed to stimulate recovery quickly.[0m
+[35mCoherence Score: 85[0m
+[34mEmbedding Dissimilarity Score: 1.00[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: Provide an explanation for Japan's Lost Decades.[0m
+[32mAnswer #2: Japan's Lost Decades denote the extended period of economic stagnation beginning in the early 1990s, driven by the collapse of the late-1980s asset bubble, which sparked a liquidity trap, widespread corporate debt issues, and a cycle of deflation that monetary policies struggled to counteract, hindering sustained recovery.[0m
+[35mCoherence Score: 75[0m
+[34mEmbedding Dissimilarity Score: 0.06[0m
+
+
+Breaking after 3 answers.
+Re-running model=x-ai/grok-3-mini-beta:medium temp=0.7 question='What is a cause of World War 1?'
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #1: The assassination of Archduke Franz Ferdinand[0m
+[35mCoherence Score: 75[0m
+[34mEmbedding Dissimilarity Score: 1.00[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #2: Militarism[0m
+[35mCoherence Score: 85[0m
+[34mEmbedding Dissimilarity Score: 0.80[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #3: Alliances[0m
+[35mCoherence Score: 75[0m
+[34mEmbedding Dissimilarity Score: 0.73[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #4: Imperialism[0m
+[35mCoherence Score: 80[0m
+[34mEmbedding Dissimilarity Score: 0.48[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #5: Nationalism[0m
+[35mCoherence Score: 80[0m
+[34mEmbedding Dissimilarity Score: 0.46[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #6: The naval arms race[0m
+[35mCoherence Score: 50[0m
+[34mEmbedding Dissimilarity Score: 0.62[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #7: The Balkan Wars[0m
+[35mCoherence Score: 70[0m
+[34mEmbedding Dissimilarity Score: 0.67[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #8: The Moroccan Crises[0m
+[35mCoherence Score: 90[0m
+[34mEmbedding Dissimilarity Score: 0.61[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #9: Economic competition[0m
+[35mCoherence Score: 50[0m
+[34mEmbedding Dissimilarity Score: 0.67[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #10: The breakdown of the Balance of Power in Europe[0m
+[35mCoherence Score: 80[0m
+[34mEmbedding Dissimilarity Score: 0.60[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #11: The Bosnian Crisis[0m
+[35mCoherence Score: 80[0m
+[34mEmbedding Dissimilarity Score: 0.40[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #12: The July Crisis[0m
+[35mCoherence Score: 70[0m
+[34mEmbedding Dissimilarity Score: 0.36[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #13: The aggressive foreign policy of Germany under Kaiser Wilhelm II[0m
+[35mCoherence Score: 75[0m
+[34mEmbedding Dissimilarity Score: 0.58[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #14: The dispute over Alsace-Lorraine[0m
+[35mCoherence Score: 70[0m
+[34mEmbedding Dissimilarity Score: 0.58[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #15: The Schlieffen Plan[0m
+[35mCoherence Score: 50[0m
+[34mEmbedding Dissimilarity Score: 0.56[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #16: The Italo-Turkish War[0m
+[35mCoherence Score: 30[0m
+[34mEmbedding Dissimilarity Score: 0.44[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #17: The decline of the Ottoman Empire[0m
+[35mCoherence Score: 60[0m
+[34mEmbedding Dissimilarity Score: 0.48[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #18: The German blank cheque to Austria-Hungary[0m
+[35mCoherence Score: 75[0m
+[34mEmbedding Dissimilarity Score: 0.49[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #19: The Young Turk Revolution[0m
+[35mCoherence Score: 30[0m
+[34mEmbedding Dissimilarity Score: 0.52[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #20: The Russian mobilization[0m
+[35mCoherence Score: 75[0m
+[34mEmbedding Dissimilarity Score: 0.57[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #21: The Berlin-Baghdad railway[0m
+[35mCoherence Score: 65[0m
+[34mEmbedding Dissimilarity Score: 0.61[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
+Using x-ai/grok-3-mini-beta:medium with temperature 0.7
+[36mQuestion: What is a cause of World War 1?[0m
+[32mAnswer #22: Social Darwinism[0m
+[35mCoherence Score: 30[0m
+[34mEmbedding Dissimilarity Score: 0.58[0m
+
+
+[Model Mapping] x-ai/grok-3-mini-beta:medium -> x-ai/grok-3-beta
